@@ -2,7 +2,7 @@
 
 #### 效果预览
 
-| ![](https://github.com/xygzp415/SmartEye/blob/master/screenshot/menu.png) | ![](https://github.com/xygzp415/SmartEye/blob/master/screenshot/crop.png) | ![](https://github.com/xygzp415/SmartEye/blob/master/screenshot/result.png) |
+| ![](https://github.com/xygzp415/SmartEye/blob/master/screenshot/menu_l.png?raw=true) | ![](https://github.com/xygzp415/SmartEye/blob/master/screenshot/crop_l.png?raw=true) | ![](https://github.com/xygzp415/SmartEye/blob/master/screenshot/result_l.png?raw=true) |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
 |               菜单界面               |               裁剪图片               |               识别结果               |
 
