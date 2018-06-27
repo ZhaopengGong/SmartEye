@@ -18,7 +18,7 @@
 
 #### 使用说明
 
-- 先搭建好服务端，服务端源码地址
+- 先搭建好服务端。[**服务端源码地址**](https://github.com/wangke0809/Keras-Web-API)
 - 在utils包下将url_prefix字段替换为自己的服务端ip
 
 #### 参考
